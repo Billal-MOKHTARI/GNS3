@@ -15,3 +15,7 @@ sudo apt install libgl1 libglx-mesa0
 sudo apt-get install CiscoPacketTracer822_amd64_signed.deb
 
 ```
+## Could not start VNC program with command 'vncviewer localhost:5901': [Errno 2] No such file or directory: 'vncviewer'
+```bash
+sudo apt install tigervnc-viewer
+```
